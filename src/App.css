@@ -1,0 +1,69 @@
+.item{
+    width: 40px;
+    border: solid 3px white;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.footerColor{
+    background-color: rgb(44, 62, 80);
+}
+.bb{
+    background-color:  rgba(35, 25, 25, 0.499);
+}
+
+.navColor{
+    background-color: rgb(44, 62, 80);
+    padding: 30px 0px;
+}
+
+.active{
+    background-color: rgb(26, 188, 156);
+    border-radius: 10px;
+}
+
+.aboutColor{
+    background-color: rgb(26, 188, 156);
+}
+
+.portfolioColor h1 ,i{
+color:rgb(44, 62, 80);
+}
+
+
+
+
+
+
+.btn-danger {
+    background-color: rgba(26, 188, 156, 0.871) !important;
+    margin-left: 350px !important;
+    
+}
+
+.homeColor{
+     background-color: rgba(26, 188, 156, 0.871);
+}
+
+.testColor{
+    width: 97%;
+    margin: auto;
+      background-color: rgba(26, 188, 156, 0.871);
+   border-radius: 10px;
+   opacity: 0;
+   cursor: pointer;
+   transition: all .25s;
+}
+
+
+.testColor:hover{
+opacity: 1;
+}
+
+.bgg{
+    background-color: rgba(0, 0, 0, .7);
+    cursor: pointer;
+   
+}
