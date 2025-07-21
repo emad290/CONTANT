@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router-dom'
 export default function Nav() {
   return (
     <div>
-<nav className="navbar navbar-expand-lg navColor ">
+<nav className="navbar navbar-expand-lg navColor sticky-top">
   <div className="container w-75">
     <Link className="navbar-brand fs-2 fw-bolder  text-white" to="/">Start Framework</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
